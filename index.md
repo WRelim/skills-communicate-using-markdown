@@ -1,1 +1,2 @@
 # I'm typing any content I'd like.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
